@@ -1,6 +1,6 @@
 # Portfolio
 
-![Project Image](./images/)
+![Project Image](./assets/delani.png)
 
 ### By: Joseph Kimani
 
@@ -15,10 +15,7 @@
 
 ## Description
 
-
-
-## Usage
-
+This is a landing page for Delani studio, which is testing on website response
 
 
 ### Requirements
@@ -55,11 +52,6 @@ Happy coding!
 -   HTML5
 -   CSS3
 -   Java script
-
-## Design
-
-The project was designed using Figma and is given as; [Design]()
-
 
 ## Authors Info
 
